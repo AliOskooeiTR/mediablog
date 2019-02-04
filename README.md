@@ -1,2 +1,2 @@
-# myapp
-Media blog django practice app
+# Media Blog
+Media blog django app
